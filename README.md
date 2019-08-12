@@ -2,6 +2,7 @@
 ===============
 Calculate age in php by age calculator function.
 Auwal
+Nazief
 #### Usage
 Just call function ageCalculator(Date, format), Date parameter must be DateTime and possible formats are mentioned below.
 
